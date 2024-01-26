@@ -1,0 +1,9 @@
+.card {
+    margin: 1rem;
+}
+
+.card-body {
+    display: grid;
+    justify-content: space-between;
+    align-items: center;
+}
